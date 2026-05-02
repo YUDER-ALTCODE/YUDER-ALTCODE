@@ -1,104 +1,144 @@
-<!-- 🌟 PERFIL PROFESIONAL PREMIUM DE GITHUB - YUDER GUERRA YLLA -->
-
-<h1 align="center">
-  👋 ¡Hola! Soy <span style="color:#4F46E5">Yuder Guerra Ylla</span>
-</h1>
-
-<h3 align="center">
-  💻 Full Stack Developer | Laravel · .NET (C#) · SQL Server · Bootstrap
-</h3>
-
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Desarrollador+Web+Full+Stack;Apasionado+por+la+tecnología+y+la+innovación;Amante+del+código+limpio+y+el+diseño+moderno;Construyendo+software+que+impacta+💡" />
+
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yuder%20Guerra%20Ylla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Construyendo+software+que+impacta+%F0%9F%9A%80;Laravel+%C2%B7+.NET+%28C%23%29+%C2%B7+SQL+Server;Código+limpio+%2B+Diseño+moderno+%3D+%E2%9D%A4%EF%B8%8F;Full+Stack+Developer+desde+Lima%2C+Perú+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="mailto:yuder.guerra@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-yuder.guerra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/yuderguerra">
+  <img src="https://img.shields.io/badge/LinkedIn-Yuder%20Guerra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<a href="https://tuportafolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-Ver%20Proyectos-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=yuderguerra&label=Visitas&color=7C3AED&style=for-the-badge&labelColor=1a1a2e"/>
+
 </div>
 
 ---
 
-## 🧠 Sobre mí
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Sobre mí
 
-Soy un **desarrollador web Full Stack** enfocado en crear soluciones tecnológicas eficientes y atractivas.  
-Trabajo principalmente con **Laravel**, **.NET (C#)**, **SQL Server** y frameworks modernos de frontend como **Bootstrap** y **TailwindCSS**.  
+```javascript
+const yuder = {
+  ubicacion:   "Lima, Perú 🇵🇪",
+  rol:         "Full Stack Developer",
+  stack:       ["Laravel", ".NET C#", "SQL Server", "Bootstrap", "TailwindCSS"],
+  actualmente: "Construyendo APIs REST y sistemas web robustos",
+  objetivo:    "Transformar ideas en aplicaciones de alto impacto",
+  idiomas:     ["Español (nativo)", "Inglés (básico)"],
+  fun_fact:    "Soy como Windows: tardo en bootear, pero funciono bien 😄"
+};
+```
 
-> 💡 “Mi objetivo es transformar ideas en aplicaciones funcionales y de alto impacto.”
+<br/>
 
----
-
-## 🚀 Tecnologías y Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,python,mysql,sqlite,html,css,js,bootstrap,tailwind,git,github,postman,vscode,visualstudio" />
-</p>
-
----
-
-## 🌟 Proyectos Destacados
-
-| 💡 Proyecto | 📜 Descripción | ⚙️ Tecnologías |
-|--------------|----------------|----------------|
-| [**Sistema de Delivery de Emolientes**](https://github.com/yuderguerra/sistema-delivery) | Sistema con módulos de pedidos, reservas y pagos, interfaz moderna y segura. | Laravel · TailwindCSS · MySQL |
-| [**Gestor de Reservas Web**](https://github.com/yuderguerra/sistema-reservas) | Sistema para gestión de reservas con control de usuarios y reportes. | Laravel · Bootstrap · MySQL |
-| [**API REST .NET Core**](https://github.com/yuderguerra/api-dotnet) | API segura con autenticación JWT y CRUD optimizado. | C# · ASP.NET Core · SQL Server |
-
----
-
-## 📈 Mis Estadísticas
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; Stack Tecnológico
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuderguerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuderguerra&theme=tokyonight&hide_border=true" height="160" />
+
+### 🔷 Backend
+<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,python&theme=dark" />
+
+### 🗄️ Bases de Datos
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,sqlserver&theme=dark" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" />
+
+### 🛠️ Herramientas
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&theme=dark" />
+
 </div>
+
+<br/>
+
+## 🔥 Proyectos Destacados
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuderguerra&theme=tokyo-night&hide_border=true&area=true" />
+
+<a href="https://github.com/yuderguerra/sistema-delivery">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuderguerra&repo=sistema-delivery&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+</a>
+<a href="https://github.com/yuderguerra/sistema-reservas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuderguerra&repo=sistema-reservas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+</a>
+<a href="https://github.com/yuderguerra/api-dotnet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuderguerra&repo=api-dotnet&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+</a>
+
 </div>
 
----
+<br/>
 
-## 🏆 Logros y Actividad
+<details>
+<summary><b>📋 Ver tabla completa de proyectos</b></summary>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuderguerra&theme=tokyonight&no-frame=true&margin-w=5" />
-</p>
+| 💡 Proyecto | 📜 Descripción | ⚙️ Stack |
+|:---|:---|:---|
+| [**🧉 Sistema Delivery Emolientes**](https://github.com/yuderguerra/sistema-delivery) | Módulos de pedidos, reservas y pagos con interfaz moderna | `Laravel` `TailwindCSS` `MySQL` |
+| [**📅 Gestor de Reservas Web**](https://github.com/yuderguerra/sistema-reservas) | Control de usuarios, reservas y reportes integrados | `Laravel` `Bootstrap` `MySQL` |
+| [**🔐 API REST .NET Core**](https://github.com/yuderguerra/api-dotnet) | API segura con JWT, CRUD optimizado y documentación Swagger | `C#` `ASP.NET Core` `SQL Server` |
 
----
+</details>
 
-## 📬 Cómo contactarme
+<br/>
+
+## 📊 Estadísticas GitHub
 
 <div align="center">
-  <a href="mailto:yuder.guerra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yuder.guerra%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yuderguerra">
-    <img src="https://img.shields.io/badge/LinkedIn-Yuder%20Guerra-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://tuportafolio.com">
-    <img src="https://img.shields.io/badge/Portafolio-Web-orange?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yuderguerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=7C3AED" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuderguerra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuderguerra&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&stroke=1a1a2e" width="700"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuderguerra&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area_color=302b63" width="100%"/>
+
 </div>
 
----
+<br/>
 
-<h3 align="center">🌍 Lima, Perú | 💬 Español / Inglés básico</h3>
+## 🏆 Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuderguerra&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" width="100%"/>
+</div>
+
+<br/>
+
+## 🐍 Mis contribuciones siendo devoradas...
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yuderguerra/yuderguerra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+> ⚠️ Para activar la serpiente, crea el archivo `.github/workflows/snake.yml` con el action de platane/snk
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuderguerra&label=👁️+Visitas+al+perfil&color=4F46E5&style=for-the-badge" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=18&fontColor=A78BFA&text=⭐%20%22El%20código%20es%20más%20que%20instrucciones%2C%20es%20una%20forma%20de%20pensar.%22%20⭐&fontAlignY=55&animation=fadeIn" width="100%"/>
+
 </div>
-
----
-
-<h4 align="center">
-  ⭐ “El código es más que instrucciones, es una forma de pensar.” ⭐
-</h4>
-
----
-
-- ⚡ Fun fact: I'm like Windows, it takes a while to boot haha
-
-<!---
-YUDER-ALTCODE/YUDER-ALTCODE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
