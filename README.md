@@ -128,7 +128,7 @@ const yuder = {
 ## 🐍 Mis contribuciones siendo devoradas...
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yuderguerra/yuderguerra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/YUDER-ALTCODE/YUDER-ALTCODE/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 > ⚠️ Para activar la serpiente, crea el archivo `.github/workflows/snake.yml` con el action de platane/snk
