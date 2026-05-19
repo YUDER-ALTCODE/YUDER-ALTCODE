@@ -1,104 +1,68 @@
-<div align="center">
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f0f14,50:1a1a2e,100:16213e&height=220&section=header&text=Yuder%20Guerra%20Ylla&fontSize=52&fontColor=e2e8f0&fontAlignY=48&desc=Backend-first%20Full%20Stack%20Developer&descSize=18&descColor=94a3b8&descAlignY=68" width="100%"/>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-<br/>
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-![Disponible](https://img.shields.io/badge/Estado-Disponible-34d399?style=flat-square&labelColor=0f0f14)
-&nbsp;
-![Perú](https://img.shields.io/badge/📍-Perú-818cf8?style=flat-square&labelColor=0f0f14)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-YUDER--ALTCODE-6366f1?style=flat-square&logo=github&logoColor=6366f1&labelColor=0f0f14)](https://github.com/YUDER-ALTCODE)
+### 👨🏻‍💻 &nbsp;About Me
 
-</div>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<br/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<div align="center">
+### 🛠 &nbsp;Tech Stack
 
-**Construyo sistemas web que funcionan en producción.**  
-APIs limpias, lógica sólida y bases de datos bien diseñadas.
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-</div>
+### ⚙️ &nbsp;GitHub Analytics
 
-<br/>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
----
+### 🤝🏻 &nbsp;Connect with Me
 
-### ⚙️ Stack
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+-----
+Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-**Backend**
-<br/><br/>
-![PHP](https://img.shields.io/badge/PHP-1e1e30?style=flat-square&logo=php&logoColor=a78bfa)
-![Laravel](https://img.shields.io/badge/Laravel-1e1e30?style=flat-square&logo=laravel&logoColor=a78bfa)
-![C#](https://img.shields.io/badge/C%23-1e1e30?style=flat-square&logo=csharp&logoColor=93c5fd)
-![.NET](https://img.shields.io/badge/.NET-1e1e30?style=flat-square&logo=dotnet&logoColor=93c5fd)
-
-</td>
-<td valign="top" width="50%">
-
-**Frontend**
-<br/><br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-1e1e30?style=flat-square&logo=javascript&logoColor=fde047)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1e1e30?style=flat-square&logo=tailwindcss&logoColor=7dd3fc)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e30?style=flat-square&logo=bootstrap&logoColor=a78bfa)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Bases de datos**
-<br/><br/>
-![SQL Server](https://img.shields.io/badge/SQL_Server-1e1e30?style=flat-square&logo=microsoftsqlserver&logoColor=6ee7b7)
-![MySQL](https://img.shields.io/badge/MySQL-1e1e30?style=flat-square&logo=mysql&logoColor=6ee7b7)
-
-</td>
-<td valign="top">
-
-**Herramientas**
-<br/><br/>
-![Git](https://img.shields.io/badge/Git-1e1e30?style=flat-square&logo=git&logoColor=f97316)
-![Postman](https://img.shields.io/badge/Postman-1e1e30?style=flat-square&logo=postman&logoColor=f97316)
-![Swagger](https://img.shields.io/badge/Swagger-1e1e30?style=flat-square&logo=swagger&logoColor=6ee7b7)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🚀 Proyectos
-
-**[sistema-delivery](https://github.com/YUDER-ALTCODE/sistema-delivery)**  
-Plataforma de pedidos en tiempo real con arquitectura escalable.
-
-**[sistema-reservas](https://github.com/YUDER-ALTCODE/sistema-reservas)**  
-Gestión de disponibilidad, usuarios y reportes.
-
-**[api-dotnet](https://github.com/YUDER-ALTCODE/api-dotnet)**  
-API REST con JWT, estructura limpia y documentación Swagger.
-
----
-
-
-
----
-
-### 📬 Contacto
-
-[![Email](https://img.shields.io/badge/Email-yuder.guerra@gmail.com-6366f1?style=flat-square&logo=gmail&logoColor=6366f1&labelColor=0f0f14)](mailto:yuder.guerra@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuder_Guerra-6366f1?style=flat-square&logo=linkedin&logoColor=6366f1&labelColor=0f0f14)](https://linkedin.com/in/yuderguerra)
-
----
-
-<div align="center">
-
-*"o ño."*
-
-</div>
+Last Edited on: 11/12/2020
