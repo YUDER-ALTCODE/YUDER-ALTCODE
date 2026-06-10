@@ -8,17 +8,20 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-<h2>Hey there! I'm Yuder 👋</h2>
+<h2>Hey there! I'm YuderDev </h2>
 
 ### 👨🏻‍💻 About Me
 
-💡 &nbsp;Passionate about building software, automation systems, bots, and crazy ideas.\
-🚀 &nbsp;Currently working on Laravel, TypeScript, Electron, and WhatsApp automation projects.\
-🤖 &nbsp;Interested in Artificial Intelligence, APIs, Cybersecurity, and System Architecture.\
-🌱 &nbsp;Learning more about scalable backend systems and cloud technologies.\
-💬 &nbsp;I enjoy experimenting with automation, bots, and full-stack development.\
-⚡ &nbsp;Fun fact: I spend more time fixing npm errors than sleeping.\
-📫 &nbsp;Reach me anytime for collaboration, projects, or tech discussions.
+💡 &nbsp;I enjoy developing software and building solutions that solve real-world problems.\
+🚀 &nbsp;Currently working with Laravel, React, TypeScript, Node.js, PHP, and MySQL.\
+🔌 &nbsp;Working on API integrations, electronic invoicing systems, payment gateways, and business applications.\
+🛡️ &nbsp;Passionate about the world of cybersecurity and always interested in learning something new about security.\
+🏗️ &nbsp;Interested in software architecture, backend development, and scalable systems.\
+🌱 &nbsp;Continuously learning and exploring new technologies.\
+💬 &nbsp;I enjoy turning ideas into functional and practical applications.\
+📫 &nbsp;Open to collaborations, projects, and technology discussions.\
+
+> &nbsp;"No system is secure, MRX."
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -28,10 +31,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
@@ -40,8 +42,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
 
 
 ### 🤝🏻 Connect with Me
