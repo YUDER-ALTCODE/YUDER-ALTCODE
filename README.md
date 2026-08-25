@@ -26,6 +26,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="380"/>
 
+- 👋 &nbsp;Hello, my name is Yuder, I'm 20 years old, and I'm from Cusco-Peru.
 - 💡 &nbsp;I enjoy developing software and building solutions that solve real-world problems.
 - 🚀 &nbsp;Currently working with **Laravel, React, TypeScript, Node.js, PHP** and **MySQL**.
 - 🔌 &nbsp;Focused on **API integrations**, payment gateways, and business applications.
